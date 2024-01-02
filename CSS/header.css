@@ -1,0 +1,27 @@
+header {
+  margin-bottom: 15px;
+}
+
+.info-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.info-bar-icons img {
+  width: 30px;
+}
+
+.info-bar-name {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.info-time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+}
